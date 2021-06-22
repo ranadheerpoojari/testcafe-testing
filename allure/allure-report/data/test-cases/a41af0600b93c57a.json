@@ -1,0 +1,54 @@
+{
+  "uid" : "a41af0600b93c57a",
+  "name" : "Search t",
+  "fullName" : "Search online banking.Search t",
+  "historyId" : "110e8f1b7d6dc58db641024510af39a0",
+  "time" : {
+    "start" : 1624381480141,
+    "stop" : 1624381481104,
+    "duration" : 963
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusMessage" : "This test has been passed.",
+  "statusTrace" : "no error",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "undefined"
+  }, {
+    "name" : "suite",
+    "value" : "Search online banking"
+  }, {
+    "name" : "testClass",
+    "value" : "Search online banking"
+  }, {
+    "name" : "testMethod",
+    "value" : "Search t"
+  }, {
+    "name" : "package",
+    "value" : "Search online banking"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "User Agent",
+    "value" : "Safari 12.1.2 / macOS 10.14.6, "
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a41af0600b93c57a.json",
+  "parameterValues" : [ "Safari 12.1.2 / macOS 10.14.6, " ]
+}

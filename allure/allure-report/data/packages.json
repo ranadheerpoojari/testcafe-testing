@@ -1,0 +1,151 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Feedback form filling",
+    "children" : [ {
+      "name" : "filling the form",
+      "uid" : "280d86e66957293e",
+      "parentUid" : "94ea5d87230387ef37470c23e37edd0f",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1624381028060,
+        "stop" : 1624381028061,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Safari 12.1.2 / macOS 10.14.6" ]
+    }, {
+      "name" : "filling the form",
+      "uid" : "872aa3a8ce830aa8",
+      "parentUid" : "94ea5d87230387ef37470c23e37edd0f",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1624381477525,
+        "stop" : 1624381477526,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Safari 12.1.2 / macOS 10.14.6, " ]
+    } ],
+    "uid" : "94ea5d87230387ef37470c23e37edd0f"
+  }, {
+    "name" : "Forgot Password",
+    "children" : [ {
+      "name" : "Retrieve the password",
+      "uid" : "a040796f85c3ebd7",
+      "parentUid" : "d95807c548de61cbeb389a0907ae8127",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1624381028067,
+        "stop" : 1624381028067,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Safari 12.1.2 / macOS 10.14.6" ]
+    }, {
+      "name" : "Retrieve the password",
+      "uid" : "65a92dcc11524dae",
+      "parentUid" : "d95807c548de61cbeb389a0907ae8127",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1624381477540,
+        "stop" : 1624381477541,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Safari 12.1.2 / macOS 10.14.6, " ]
+    } ],
+    "uid" : "d95807c548de61cbeb389a0907ae8127"
+  }, {
+    "name" : "Login Test",
+    "children" : [ {
+      "name" : "User cannot login with invalid credentials",
+      "uid" : "fbffd1e124c2d5e",
+      "parentUid" : "ce416f1b6a03b6eed7b72fd8e5dbe526",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624381031057,
+        "stop" : 1624381034044,
+        "duration" : 2987
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Safari 12.1.2 / macOS 10.14.6" ]
+    }, {
+      "name" : "User login with valid credentials",
+      "uid" : "c8e160603b9ff1f",
+      "parentUid" : "ce416f1b6a03b6eed7b72fd8e5dbe526",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1624381031064,
+        "stop" : 1624381031064,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Safari 12.1.2 / macOS 10.14.6" ]
+    }, {
+      "name" : "User cannot login with invalid credentials",
+      "uid" : "8037b60a06388b96",
+      "parentUid" : "ce416f1b6a03b6eed7b72fd8e5dbe526",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624381477545,
+        "stop" : 1624381480130,
+        "duration" : 2585
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Safari 12.1.2 / macOS 10.14.6, " ]
+    }, {
+      "name" : "User login with valid credentials",
+      "uid" : "65845f5b3c0c17ec",
+      "parentUid" : "ce416f1b6a03b6eed7b72fd8e5dbe526",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1624381480138,
+        "stop" : 1624381480139,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Safari 12.1.2 / macOS 10.14.6, " ]
+    } ],
+    "uid" : "ce416f1b6a03b6eed7b72fd8e5dbe526"
+  }, {
+    "name" : "Search online banking",
+    "children" : [ {
+      "name" : "Search t",
+      "uid" : "3bae2efb330dc0ae",
+      "parentUid" : "1058623fd5a163e2a0ec595ee8b18ebf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624381032188,
+        "stop" : 1624381033310,
+        "duration" : 1122
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Safari 12.1.2 / macOS 10.14.6" ]
+    }, {
+      "name" : "Search t",
+      "uid" : "a41af0600b93c57a",
+      "parentUid" : "1058623fd5a163e2a0ec595ee8b18ebf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624381480141,
+        "stop" : 1624381481104,
+        "duration" : 963
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Safari 12.1.2 / macOS 10.14.6, " ]
+    } ],
+    "uid" : "1058623fd5a163e2a0ec595ee8b18ebf"
+  } ]
+}

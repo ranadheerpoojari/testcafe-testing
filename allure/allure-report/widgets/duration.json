@@ -1,0 +1,101 @@
+[ {
+  "uid" : "a040796f85c3ebd7",
+  "name" : "Retrieve the password",
+  "time" : {
+    "start" : 1624381028067,
+    "stop" : 1624381028067,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "65845f5b3c0c17ec",
+  "name" : "User login with valid credentials",
+  "time" : {
+    "start" : 1624381480138,
+    "stop" : 1624381480139,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a41af0600b93c57a",
+  "name" : "Search t",
+  "time" : {
+    "start" : 1624381480141,
+    "stop" : 1624381481104,
+    "duration" : 963
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65a92dcc11524dae",
+  "name" : "Retrieve the password",
+  "time" : {
+    "start" : 1624381477540,
+    "stop" : 1624381477541,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "280d86e66957293e",
+  "name" : "filling the form",
+  "time" : {
+    "start" : 1624381028060,
+    "stop" : 1624381028061,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "8037b60a06388b96",
+  "name" : "User cannot login with invalid credentials",
+  "time" : {
+    "start" : 1624381477545,
+    "stop" : 1624381480130,
+    "duration" : 2585
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3bae2efb330dc0ae",
+  "name" : "Search t",
+  "time" : {
+    "start" : 1624381032188,
+    "stop" : 1624381033310,
+    "duration" : 1122
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fbffd1e124c2d5e",
+  "name" : "User cannot login with invalid credentials",
+  "time" : {
+    "start" : 1624381031057,
+    "stop" : 1624381034044,
+    "duration" : 2987
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "872aa3a8ce830aa8",
+  "name" : "filling the form",
+  "time" : {
+    "start" : 1624381477525,
+    "stop" : 1624381477526,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c8e160603b9ff1f",
+  "name" : "User login with valid credentials",
+  "time" : {
+    "start" : 1624381031064,
+    "stop" : 1624381031064,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]
