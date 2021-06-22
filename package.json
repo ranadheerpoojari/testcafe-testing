@@ -11,7 +11,7 @@
     "test:chrome:headless:4": "testcafe -c 4 chrome:headless ./tests --allow-running-insecure-content",
     "test:chrome:mobile": "testcafe chrome:emulation:device=iphone X ./tests",
     "test:safari": "testcafe safari ./tests --reporter allure-expanded",
-    "test:firefox": "testcafe firefox ./tests",
+    "test:firefox": "testcafe firefox ./tests --video artifacts/videos",
     "test:opera": "testcafe opera ./tests",
     "test:multiple": "testcafe chrome,firefox ./tests -s takeOnFails=true"
   },
@@ -23,6 +23,7 @@
   "author": "Ranadheer",
   "license": "ISC",
   "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.0.20",
     "browser-assert": "^1.2.1",
     "prettier": "^2.3.1",
     "testcafe": "^1.14.2",
