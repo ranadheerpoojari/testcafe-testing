@@ -1,0 +1,48 @@
+{
+  "total" : 4,
+  "items" : [ {
+    "uid" : "72c00828aae2e383fb8d23055d28bfbb",
+    "name" : "Login Test",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "65da1a72f2e91f7f8b5f5944460077bf",
+    "name" : "Search online banking",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "efd06a2db9d10aa99bce127a9b055984",
+    "name" : "Feedback form filling",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "99fda7de123f0538db8794b198223a14",
+    "name" : "Forgot Password",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}

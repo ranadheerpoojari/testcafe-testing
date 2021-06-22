@@ -1,0 +1,54 @@
+{
+  "uid" : "fbffd1e124c2d5e",
+  "name" : "User cannot login with invalid credentials",
+  "fullName" : "Login Test.User cannot login with invalid credentials",
+  "historyId" : "caaf54de0e2845065488b42dac9207f6",
+  "time" : {
+    "start" : 1624381031057,
+    "stop" : 1624381034044,
+    "duration" : 2987
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusMessage" : "This test has been passed.",
+  "statusTrace" : "no error",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "undefined"
+  }, {
+    "name" : "suite",
+    "value" : "Login Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "User cannot login with invalid credentials"
+  }, {
+    "name" : "package",
+    "value" : "Login Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "User Agent",
+    "value" : "Safari 12.1.2 / macOS 10.14.6"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fbffd1e124c2d5e.json",
+  "parameterValues" : [ "Safari 12.1.2 / macOS 10.14.6" ]
+}

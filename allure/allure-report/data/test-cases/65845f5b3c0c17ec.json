@@ -1,0 +1,54 @@
+{
+  "uid" : "65845f5b3c0c17ec",
+  "name" : "User login with valid credentials",
+  "fullName" : "Login Test.User login with valid credentials",
+  "historyId" : "40db4012d0a106badaddde80718eac2d",
+  "time" : {
+    "start" : 1624381480138,
+    "stop" : 1624381480139,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test has been skipped.",
+  "statusTrace" : "no error",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "undefined"
+  }, {
+    "name" : "suite",
+    "value" : "Login Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "User login with valid credentials"
+  }, {
+    "name" : "package",
+    "value" : "Login Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "User Agent",
+    "value" : "Safari 12.1.2 / macOS 10.14.6, "
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "65845f5b3c0c17ec.json",
+  "parameterValues" : [ "Safari 12.1.2 / macOS 10.14.6, " ]
+}

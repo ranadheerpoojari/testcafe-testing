@@ -1,0 +1,37 @@
+{
+  "name": "testcafe-testing",
+  "version": "1.0.0",
+  "description": "Practice testcafe",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test:chrome": "testcafe chrome ./tests -s takeOnFails=true --reporter html:html/reports.html",
+    "test:chrome:4": "testcafe -c 4 chrome ./tests -s takeOnFails=true",
+    "test:chrome:headless": "testcafe  chrome:headless ./tests --allow-running-insecure-content",
+    "test:chrome:headless:4": "testcafe -c 4 chrome:headless ./tests --allow-running-insecure-content",
+    "test:chrome:mobile": "testcafe chrome:emulation:device=iphone X ./tests",
+    "test:safari": "testcafe safari ./tests --reporter allure-expanded",
+    "test:firefox": "testcafe firefox ./tests",
+    "test:opera": "testcafe opera ./tests",
+    "test:multiple": "testcafe chrome,firefox ./tests -s takeOnFails=true"
+  },
+  "keywords": [
+    "TestCafe",
+    "Testing",
+    "Automation"
+  ],
+  "author": "Ranadheer",
+  "license": "ISC",
+  "dependencies": {
+    "browser-assert": "^1.2.1",
+    "prettier": "^2.3.1",
+    "testcafe": "^1.14.2",
+    "testcafe-hammerhead": "^24.2.1",
+    "testcafe-reporter-allure": "^1.0.5",
+    "testcafe-reporter-allure-expanded": "^1.1.0",
+    "testcafe-reporter-html": "^1.4.6"
+  },
+  "devDependencies": {
+    "xpath-to-css": "^1.0.5"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "uid" : "a040796f85c3ebd7",
+  "name" : "Retrieve the password",
+  "fullName" : "Forgot Password.Retrieve the password",
+  "historyId" : "fcb2889cdea94ccb3e2480d605403397",
+  "time" : {
+    "start" : 1624381028067,
+    "stop" : 1624381028067,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test has been skipped.",
+  "statusTrace" : "no error",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "undefined"
+  }, {
+    "name" : "suite",
+    "value" : "Forgot Password"
+  }, {
+    "name" : "testClass",
+    "value" : "Forgot Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "Retrieve the password"
+  }, {
+    "name" : "package",
+    "value" : "Forgot Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "User Agent",
+    "value" : "Safari 12.1.2 / macOS 10.14.6"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a040796f85c3ebd7.json",
+  "parameterValues" : [ "Safari 12.1.2 / macOS 10.14.6" ]
+}

@@ -1,0 +1,54 @@
+{
+  "uid" : "280d86e66957293e",
+  "name" : "filling the form",
+  "fullName" : "Feedback form filling.filling the form",
+  "historyId" : "cdfee7fa6b4b07f31c56dce7a94f4e23",
+  "time" : {
+    "start" : 1624381028060,
+    "stop" : 1624381028061,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test has been skipped.",
+  "statusTrace" : "no error",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "undefined"
+  }, {
+    "name" : "suite",
+    "value" : "Feedback form filling"
+  }, {
+    "name" : "testClass",
+    "value" : "Feedback form filling"
+  }, {
+    "name" : "testMethod",
+    "value" : "filling the form"
+  }, {
+    "name" : "package",
+    "value" : "Feedback form filling"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "User Agent",
+    "value" : "Safari 12.1.2 / macOS 10.14.6"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "280d86e66957293e.json",
+  "parameterValues" : [ "Safari 12.1.2 / macOS 10.14.6" ]
+}
