@@ -1,3 +1,4 @@
+npm install 
 Allure reports test cafe 
 
 first install allure "npm install testcafe-reporter-allure"
